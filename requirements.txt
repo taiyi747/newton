@@ -1,0 +1,16 @@
+\PyQt5==5.15.10
+PyQtWebEngine==5.15.6
+numpy==1.24.3
+matplotlib==3.7.2
+
+# AI助手 - DeepSeek API
+openai>=1.0.0
+
+# 数据处理 - 使用最小功能
+# pandas 仅在数据处理中使用，只导入需要的部分
+
+# PDF处理
+PyMuPDF==1.23.5
+
+# 打包工具
+cx-Freeze==6.15.0
